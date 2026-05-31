@@ -1,43 +1,85 @@
-# C++ Practice Portfolio
+# 💻 C++ Practice Portfolio
 
-This repository contains my beginner-level C++ programs developed as part of my programming practice and coursework.
+This repository contains my beginner-to-intermediate level C++ programs developed during my learning journey in programming and Computer Science fundamentals.
 
 ---
 
-## 📌 Topics Covered
+## 📌 About This Repository
 
-- Input / Output
-- Conditional statements (if-else)
-- Basic arithmetic expressions
-- Real-life mini problems (profit/loss, room cost calculation)
+The purpose of this repository is to practice and strengthen core programming concepts in C++ by solving logic-based and real-world problems.
+
+---
+
+## 🧠 Topics Covered
+
+- Input / Output handling
+- Conditional statements (if-else, nested conditions)
+- Mathematical expressions
+- Number classification
+- Sorting and comparison logic
+- Coordinate geometry
+- Real-world problem solving
 
 ---
 
 ## 📂 Programs Included
 
-### 1. Profit Calculation
-Calculates total price, cost, and profit percentage.
+### 💰 Profit Calculation
+Calculates total price, total cost, and profit percentage.
 
-### 2. Expression Evaluation
-Evaluates mathematical expressions using variables.
+### 🧮 Expression Evaluation
+Evaluates mathematical expressions using variables and operators.
 
-### 3. User Input Expressions
-Takes input from user and performs calculations.
+### 📥 User Input Expressions
+Performs calculations using values entered by the user.
 
-### 4. Room Cost Calculator
-Calculates paint, tile, and panel cost based on room dimensions.
+### 🏠 Room Cost Calculator
+Calculates painting, tiling, and paneling costs based on room dimensions.
 
-### 5. Largest & Smallest Finder
-Finds largest and smallest values from input numbers.
+### 🔢 Largest & Smallest Number Finder
+Finds the largest and smallest values among multiple numbers.
+
+### ⚖️ Even/Odd and Positive/Negative Checker
+Determines whether numbers are:
+- Even or Odd
+- Positive or Negative
+- Positive Even, Positive Odd, Negative Even, or Negative Odd
+
+### 🔀 Sorting of Numbers
+Arranges numbers in:
+- Ascending order
+- Descending order
+
+### 📍 Coordinate System Analyzer
+Determines whether a point lies:
+- On the X-Axis
+- On the Y-Axis
+- At the Origin
+- In the First, Second, Third, or Fourth Quadrant
 
 ---
 
-## 🎯 Purpose
+## 🎯 Learning Goals
 
-To improve my understanding of C++ fundamentals and build a strong programming foundation for Computer Science studies.
+Through this repository, I aim to:
 
+- Build strong problem-solving skills
+- Improve logical thinking
+- Strengthen C++ fundamentals
+- Prepare for advanced topics such as Functions, Arrays, Structures, and Object-Oriented Programming
+
+---
+
+## 🚀 Future Projects
+
+Planned projects include:
+
+- ATM Management System
+- CyberCafe System
 ---
 
 ## 👨‍💻 Author
 
-Abdullah.
+**Abdullah**
+
+BSCS Aspirant | Learning C++ Programming and Problem Solving
